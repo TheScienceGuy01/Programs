@@ -47,7 +47,7 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 
 ---
 
-# <u>School Projects (All in the College_Projects branch)</u>
+# <u>School Projects (All in the Academic_Projects branch)</u>
 
 ### **1. Command line Chess made using C**
 - This project was made for my Data Structures and Algorithms course at Cumberland University.
