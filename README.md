@@ -7,6 +7,9 @@ This repository showcases my journey as a game developer, featuring personal pro
 ## Table of Contents
 - [About](#about)
 - [Projects](#projects)
+- [Unity Projects](#Unity Projects (All in the Unity_Projects branch))
+- [Projects](#projects)
+- [Projects](#projects)
 - [Technologies](#technologies)
 - [Contact](#contact)
 
@@ -19,7 +22,7 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 
 # <u>Projects</u>
 
-## Unity Projects (All in the Unity_Projects branch)
+# Unity Projects (All in the Unity_Projects branch)
 
 ### **1. Moon Swinger**
 - This was a personal project in Unity and is a small mobile game.
