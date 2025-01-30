@@ -63,7 +63,6 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
   
 ### **3. Finite-State Machine Python Script for Senior Capstone**
 - This project was made as my Senior Capstone project. It showcases basic finite-state machines using an NPC that changes states depending on player interactions.
-- This project can be found under the College_Projects branch called iirizarry_FSM-Project.py.
 
 ### **4. Sorting Algorithm time complexity differences**
 - This project was made for my Data Structures and Algorithms course at Cumberland University.
@@ -78,7 +77,6 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 ### **6. Unity Basics HTML/CSS Website Project**
 - This project was made for my Website Design course at Cumberland University.
 - The objective of this project was to showcase skills gained in HTML and CSS in the course.
-- This project can be found under the College_Projects called iirizarry_IT325_11-3-21_Dijkstra_Algorithm_v5.00.py.
 
 ### **7. Python Side-Scrolling Game**
 - This project was made for my Introduction to Programming course at Cumberland University.
@@ -88,7 +86,7 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 
 ### **8. Ball Bouncer**
 - This project was made as a practice project for Unity development for my Senior Capstone.
-- It is a simple brick breaking game where the player tries to break all the blocks.
+- It is a simple brick-breaking game where the player tries to break all the blocks.
 - The player has 3 tries before returning to the main menu.
 
 ---
@@ -105,6 +103,7 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 - The game is top-down and 2D. The player must go through a near-infinite number of random rooms.
 - Each room either contains one of the three bosses, or a chest that can help the player.
 - Built using Python and can be found on https://arcade.thumby.us/ under the arcade tab. You can also run the code directly into the Thumby editor, make sure the two emulation buttons are checked, and press start to play. Please make sure to use Chrome or Edge.
+
 ---
   
 ## Technologies
