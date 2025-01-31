@@ -7,9 +7,9 @@ This repository showcases my journey as a game developer, featuring personal pro
 ## Table of Contents
 - [About](#about)
 - [Unity Projects](#Unity-Projects-All-in-the-Unity_Projects-branch)
-- [Professional Projects](#Professional-Projects-No-Uploads-just-Descriptions)
 - [Academic Projects](#Academic-Projects-All-in-the-Academic_Projects-branch)
 - [Other Coding Projects](#Other-Coding-Projects-All-in-the-Other_Coding_Projects-branch)
+- [Professional Projects](#Professional-Projects-No-Uploads-just-Descriptions)
 - [Technologies](#technologies)
 - [Contact](#contact)
 
