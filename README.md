@@ -7,7 +7,7 @@ This repository showcases my journey as a game developer, featuring personal pro
 ## Table of Contents
 - [About](#about)
 - [Projects](#projects)
-- [Unity Projects](#Unity Projects (All in the Unity_Projects branch))
+- [Unity Projects](#Unity-Projects-All-in-the-Unity_Projects-branch))
 - [Projects](#projects)
 - [Projects](#projects)
 - [Technologies](#technologies)
@@ -50,7 +50,7 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 
 ---
 
-# <u>School Projects (All in the College_Projects branch)</u>
+# <u>Academic Projects (All in the College_Projects branch)</u>
 
 ### **1. Command line Chess made using C**
 - This project was made for my Data Structures and Algorithms course at Cumberland University.
@@ -91,7 +91,7 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 
 ### **8. Ball Bouncer**
 - This project was made as a practice project for Unity development for my Senior Capstone.
-- It is a simple brick breaking game where the player tries to break all the blocks.
+- It is a simple brick-breaking game where the player tries to break all the blocks.
 - The player has 3 tries before returning to the main menu.
 
 ---
