@@ -7,7 +7,7 @@ This repository showcases my journey as a game developer, featuring personal pro
 ## Table of Contents
 - [About](#about)
 - [Unity Projects](#Unity-Projects-All-in-the-Unity_Projects-branch)
-- [Professional Projects](#Professional-Projects-All-in-the-Professional_Projects-branch)
+- [Professional Projects](#Professional-Projects-No-Uploads-just-Descriptions)
 - [Academic Projects](#Academic-Projects-All-in-the-Academic_Projects-branch)
 - [Other Coding Projects](#Other-Coding-Projects-All-in-the-Other_Coding_Projects-branch)
 - [Technologies](#technologies)
@@ -56,29 +56,6 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 - The goal is to build a very tall tower using random items given to you, the player. You can get more items to build your tower, and as you build higher and higher, you can find floating islands.
 - You will need to balance, stack, and climb your way to the top of the world.
 - It is a smaller project that gives me a break from working on Hopper. Hopper took a lot of energy and time, so I decided to work on this game as it has a smaller scope.
-
----
-
-# <u>Professional Projects (All in the Professional_Projects branch)</u>
-
----
-
-### **1. Sunapsis Student Grouper
-- This script identifies which students need to be a part of an AD group created for Sunapsis. They will need to be part of this group to log into their Sunapsis student portal. 
-
-### **2. Sunapsis Student XML Creator
-- This script Calls a SQL stored procedure and exports that XML file into the Sunapsis database.
-
-### **3. Employee Account Creator
-- This is one of the biggest scripts I have written for my position at Cumberland University.
-- This script automates new hire account creation. This used to be done by hand, but now it is done with this script.
-- This almost entirely automated the new hire process.
-
-### **4. AD Exclusions List
-- This script's purpose is to allow the user to enable an alumni user to have access to their account for 1 day.
-- This uses a form interface so the IT Staff member can input the user and it adds them to a list that will be used to keep the user active for 1 day.
-
-### **<b>NOTE: I wrote many more scripts, but I put the notable ones on here.</b>
 
 ---
 
@@ -144,7 +121,39 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 - Built using Python and can be found on https://arcade.thumby.us/ under the arcade tab. You can also run the code directly into the Thumby editor, make sure the two emulation buttons are checked, and press start to play. Please make sure to use Chrome or Edge.
 
 ---
-  
+
+# <u>Professional Projects (No Uploads just Descriptions)</u>
+
+---
+
+### **1. Sunapsis Student Grouper**
+- This script identifies which students need to be a part of an AD group created for Sunapsis. They will need to be part of this group to log into their Sunapsis student portal. 
+
+### **2. Sunapsis Student XML Creator**
+- This script Calls a SQL stored procedure and exports that XML file into the Sunapsis database.
+
+### **3. Employee Account Creator**
+- This is one of the biggest scripts I have written for my position at Cumberland University.
+- This script automates new hire account creation. This used to be done by hand, but now it is done with this script.
+- This almost entirely automated the new hire process.
+
+### **4. AD Exclusions List**
+- This script's purpose is to allow the user to enable an alumni user to have access to their account for 1 day.
+- This uses a form interface so the IT Staff member can input the user and it adds them to a list that will be used to keep the user active for 1 day.
+
+### **5. Microsoft License Assigner**
+- This assigns students and faculty members Microsoft Licenses. 
+
+### **6. Microsoft Password Reset Tool**
+- This script was never live, but it is complete. It reset the password for the user in our SIS, Microsoft, and Google.
+
+### **7. Student Google Account Automation**
+- This script auto loads students from our SIS into AD and creates their Google Account.
+
+### **<b>NOTE: I wrote many more scripts, but I put the notable ones on here.</b>**
+
+---
+
 ## Technologies
 - **Languages:** C#, Python, C, SQL, C+, HTML, CSS, Powershell
 - **Game Engines:** Unity
