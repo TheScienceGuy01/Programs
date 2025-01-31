@@ -18,6 +18,8 @@ This repository showcases my journey as a game developer, featuring personal pro
 ## About
 Welcome to my game development portfolio! Over the past 5+ years, I've created projects that focus on gameplay mechanics, AI behavior, and physics simulations. My goal is to transition into professional game development and continue to build innovative games.
 
+You can find videos of my projects here: https://www.youtube.com/@israelirizarry3634/videos.
+
 ---
 
 # <u>Projects</u>
@@ -38,8 +40,9 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 - This was my first real project in Unity. I was in high school and made it for my FBLA TN school club.
 - This game is a horror game that incorporates quizzes to relate to the FBLA club.
 - We won first place in the state of TN and got to compete in Nationals in San Antonio.
-- Note that the project build uploaded is missing some files due to a poor upload. This was my first big project, and I did not upload the game files correctly. I also failed to save the project files.
-- Due to the build uploaded being broken, I have uploaded videos of what the game was.
+- Note that the semi-working project build I have is missing some files due to a poor upload. This was my first big project, and I did not upload the game files correctly. I also failed to save the project files. The semi-working version is too big to upload.
+- Due to the build uploaded being broken, I have linked my YouTube channel in the description for videos of the game.
+- 
 
 ### **3. Hopper**
 - This is a personal project being made in Unity that is going to be a 2D procedurally generated planet-exploring game.
