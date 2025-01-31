@@ -59,38 +59,6 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 
 ---
 
-# <u>Professional Projects (No Uploads just Descriptions)</u>
-
----
-
-### **1. Sunapsis Student Grouper
-- This script identifies which students need to be a part of an AD group created for Sunapsis. They will need to be part of this group to log into their Sunapsis student portal. 
-
-### **2. Sunapsis Student XML Creator
-- This script Calls a SQL stored procedure and exports that XML file into the Sunapsis database.
-
-### **3. Employee Account Creator
-- This is one of the biggest scripts I have written for my position at Cumberland University.
-- This script automates new hire account creation. This used to be done by hand, but now it is done with this script.
-- This almost entirely automated the new hire process.
-
-### **4. AD Exclusions List
-- This script's purpose is to allow the user to enable an alumni user to have access to their account for 1 day.
-- This uses a form interface so the IT Staff member can input the user and it adds them to a list that will be used to keep the user active for 1 day.
-
-### **5. Microsoft License Assigner
-- This assigns students and faculty members Microsoft Licenses. 
-
-### **6. Microsoft Password Reset Tool
-- This script was never live, but it is complete. It reset the password for the user in our SIS, Microsoft, and Google.
-
-### **7. Student Google Account Automation
-- This script auto loads students from our SIS into AD and creates their Google Account.
-
-### **<b>NOTE: I wrote many more scripts, but I put the notable ones on here.</b>
-
----
-
 # <u>Academic Projects (All in the Academic_Projects branch)</u>
 
 ---
@@ -153,7 +121,39 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 - Built using Python and can be found on https://arcade.thumby.us/ under the arcade tab. You can also run the code directly into the Thumby editor, make sure the two emulation buttons are checked, and press start to play. Please make sure to use Chrome or Edge.
 
 ---
-  
+
+# <u>Professional Projects (No Uploads just Descriptions)</u>
+
+---
+
+### **1. Sunapsis Student Grouper
+- This script identifies which students need to be a part of an AD group created for Sunapsis. They will need to be part of this group to log into their Sunapsis student portal. 
+
+### **2. Sunapsis Student XML Creator
+- This script Calls a SQL stored procedure and exports that XML file into the Sunapsis database.
+
+### **3. Employee Account Creator
+- This is one of the biggest scripts I have written for my position at Cumberland University.
+- This script automates new hire account creation. This used to be done by hand, but now it is done with this script.
+- This almost entirely automated the new hire process.
+
+### **4. AD Exclusions List
+- This script's purpose is to allow the user to enable an alumni user to have access to their account for 1 day.
+- This uses a form interface so the IT Staff member can input the user and it adds them to a list that will be used to keep the user active for 1 day.
+
+### **5. Microsoft License Assigner
+- This assigns students and faculty members Microsoft Licenses. 
+
+### **6. Microsoft Password Reset Tool
+- This script was never live, but it is complete. It reset the password for the user in our SIS, Microsoft, and Google.
+
+### **7. Student Google Account Automation
+- This script auto loads students from our SIS into AD and creates their Google Account.
+
+### **<b>NOTE: I wrote many more scripts, but I put the notable ones on here.</b>
+
+---
+
 ## Technologies
 - **Languages:** C#, Python, C, SQL, C+, HTML, CSS, Powershell
 - **Game Engines:** Unity
