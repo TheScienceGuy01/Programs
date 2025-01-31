@@ -7,6 +7,9 @@ This repository showcases my journey as a game developer, featuring personal pro
 ## Table of Contents
 - [About](#about)
 - [Projects](#projects)
+- [Unity Projects](#Unity-Projects-All-in-the-Unity_Projects-branch))
+- [Projects](#projects)
+- [Projects](#projects)
 - [Technologies](#technologies)
 - [Contact](#contact)
 
