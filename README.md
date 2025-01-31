@@ -6,10 +6,10 @@ This repository showcases my journey as a game developer, featuring personal pro
 
 ## Table of Contents
 - [About](#about)
-- [Projects](#projects)
 - [Unity Projects](#Unity-Projects-All-in-the-Unity_Projects-branch)
-- [Projects](#projects)
-- [Projects](#projects)
+- [Professional Projects](#Professional-Projects-All-in-the-Professional_Projects-branch)
+- [Academic Projects](#Academic-Projects-All-in-the-Academic_Projects-branch)
+- [Other Coding Projects](#Other-Coding-Projects-All-in-the-Other_Coding_Projects-branch)
 - [Technologies](#technologies)
 - [Contact](#contact)
 
@@ -22,7 +22,11 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 
 # <u>Projects</u>
 
+---
+
 ## Unity Projects (All in the Unity_Projects branch)
+
+---
 
 ### **1. Moon Swinger**
 - This was a personal project in Unity and is a small mobile game.
@@ -34,6 +38,8 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 - This was my first real project in Unity. I was in high school and made it for my FBLA TN school club.
 - This game is a horror game that incorporates quizzes to relate to the FBLA club.
 - We won first place in the state of TN and got to compete in Nationals in San Antonio.
+- Note that the project build uploaded is missing some files due to a poor upload. This was my first big project, and I did not upload the game files correctly. I also failed to save the project files.
+- Due to the build uploaded being broken, I have uploaded videos of what the game was.
 
 ### **3. Hopper**
 - This is a personal project being made in Unity that is going to be a 2D procedurally generated planet-exploring game.
@@ -50,7 +56,32 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 
 ---
 
-# <u>School Projects (All in the Academic_Projects branch)</u>
+# <u>Professional Projects (All in the Professional_Projects branch)</u>
+
+---
+
+### **1. Sunapsis Student Grouper
+- This script identifies which students need to be a part of an AD group created for Sunapsis. They will need to be part of this group to log into their Sunapsis student portal. 
+
+### **2. Sunapsis Student XML Creator
+- This script Calls a SQL stored procedure and exports that XML file into the Sunapsis database.
+
+### **3. Employee Account Creator
+- This is one of the biggest scripts I have written for my position at Cumberland University.
+- This script automates new hire account creation. This used to be done by hand, but now it is done with this script.
+- This almost entirely automated the new hire process.
+
+### **4. AD Exclusions List
+- This script's purpose is to allow the user to enable an alumni user to have access to their account for 1 day.
+- This uses a form interface so the IT Staff member can input the user and it adds them to a list that will be used to keep the user active for 1 day.
+
+###<b>NOTE: I wrote many more scripts, but I put the notable ones on here.</b>
+
+---
+
+# <u>Academic Projects (All in the Academic_Projects branch)</u>
+
+---
 
 ### **1. Command line Chess made using C**
 - This project was made for my Data Structures and Algorithms course at Cumberland University.
@@ -74,7 +105,7 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 
 ### **5. Dijkstra's Algorithm in a table and forwarding table Python Script**
 - This project was made for my Computer Networking course at Cumberland University.
-- The objective is to display the steps to complete Dijkstra's algorithm in a table and in a forwarding table for a given graph.
+- The objective is to display the steps to complete Dijkstra's algorithm in a table and a forwarding table for a given graph.
 - This project can be found under the College_Projects called iirizarry_IT325_11-3-21_Dijkstra_Algorithm_v5.00.py.
 
 ### **6. Unity Basics HTML/CSS Website Project**
@@ -95,6 +126,8 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 ---
 
 # <u>Other Coding Projects (All in the Other_Coding_Projects branch)</u>
+
+---
 
 ### **1. Command line Chess made using C++**
 - This was a personal project to practice C++.
