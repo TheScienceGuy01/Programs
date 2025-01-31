@@ -118,7 +118,7 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 - Crawler is a simple arcade game that features 3 random bosses and continuous level generation.
 - The game is top-down and 2D. The player must go through a near-infinite number of random rooms.
 - Each room either contains one of the three bosses, or a chest that can help the player.
-- Built using Python and can be found on https://arcade.thumby.us/ under the arcade tab. You can also run the code directly into the Thumby editor, make sure the two emulation buttons are checked, and press start to play. Please make sure to use Chrome or Edge.
+- Built using Python and will be found on https://arcade.thumby.us/ under the arcade tab once approved. You can also run the code directly into the Thumby editor, make sure the two emulation buttons are checked, and press start to play. Please make sure to use Chrome or Edge.
 
 ---
 
