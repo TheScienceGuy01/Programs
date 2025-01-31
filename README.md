@@ -7,7 +7,7 @@ This repository showcases my journey as a game developer, featuring personal pro
 ## Table of Contents
 - [About](#about)
 - [Unity Projects](#Unity-Projects-All-in-the-Unity_Projects-branch)
-- [Professional Projects](#Professional-Projects-All-in-the-Professional_Projects-branch)
+- [Professional Projects](#Professional-Projects-No-Uploads-just-Descriptions)
 - [Academic Projects](#Academic-Projects-All-in-the-Academic_Projects-branch)
 - [Other Coding Projects](#Other-Coding-Projects-All-in-the-Other_Coding_Projects-branch)
 - [Technologies](#technologies)
@@ -59,7 +59,7 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 
 ---
 
-# <u>Professional Projects (All in the Professional_Projects branch)</u>
+# <u>Professional Projects (No Uploads just Descriptions)</u>
 
 ---
 
@@ -77,6 +77,15 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 ### **4. AD Exclusions List
 - This script's purpose is to allow the user to enable an alumni user to have access to their account for 1 day.
 - This uses a form interface so the IT Staff member can input the user and it adds them to a list that will be used to keep the user active for 1 day.
+
+### **5. Microsoft License Assigner
+- This assigns students and faculty members Microsoft Licenses. 
+
+### **6. Microsoft Password Reset Tool
+- This script was never live, but it is complete. It reset the password for the user in our SIS, Microsoft, and Google.
+
+### **7. Student Google Account Automation
+- This script auto loads students from our SIS into AD and creates their Google Account.
 
 ### **<b>NOTE: I wrote many more scripts, but I put the notable ones on here.</b>
 
