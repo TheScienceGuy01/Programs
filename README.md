@@ -75,7 +75,7 @@ Welcome to my game development portfolio! Over the past 5+ years, I've created p
 - This script's purpose is to allow the user to enable an alumni user to have access to their account for 1 day.
 - This uses a form interface so the IT Staff member can input the user and it adds them to a list that will be used to keep the user active for 1 day.
 
-###<b>NOTE: I wrote many more scripts, but I put the notable ones on here.</b>
+### **<b>NOTE: I wrote many more scripts, but I put the notable ones on here.</b>
 
 ---
 
