@@ -17,7 +17,7 @@ This repository showcases my journey as a game developer, featuring personal pro
 ---
 ## Resume (All in Resumes branch)
 Here you can find the latest version of my resume.
----
+
 ---
 
 ## About
