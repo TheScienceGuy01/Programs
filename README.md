@@ -6,6 +6,7 @@ This repository showcases my journey as a game developer, featuring personal pro
 
 ## Table of Contents
 - [About](#about)
+- [Resume](#Resume)
 - [Unity Projects](#Unity-Projects-All-in-the-Unity_Projects-branch)
 - [Academic Projects](#Academic-Projects-All-in-the-Academic_Projects-branch)
 - [Other Coding Projects](#Other-Coding-Projects-All-in-the-Other_Coding_Projects-branch)
@@ -13,6 +14,9 @@ This repository showcases my journey as a game developer, featuring personal pro
 - [Technologies](#technologies)
 - [Contact](#contact)
 
+---
+## Resume
+Here you can find the latest version of my resume.
 ---
 
 ## About
