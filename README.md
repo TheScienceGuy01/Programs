@@ -50,11 +50,10 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 - https://www.youtube.com/@israelirizarry3634/videos
 
 ### **3. Hopper**
-- This is a personal project being made in Unity that is going to be a 2D procedurally generated planet-exploring game.
-- This game is currently in development, but it is on hold so I can work on a smaller project first.
-- Functional features include player movement and random, procedural planet generation. This is probably the biggest project I have worked on.
-- This game was never released, but it does showcase my experienced skills using the Unity engine.
-- I may pick up on the game as a future personal project.
+- This is my main personal project being made in Unity that is going to be a 2D procedurally generated phyics-based planet-exploring roguelike.
+- This game is currently in development, and will be my first finished release.
+- Functional features include player movement and random, procedural planet generation. There is an inventory system, a crafting system, a combat system, NPC behavior AI, physic-based building of ships, and game loop systems.
+- This game is still in development with a test build projected to be ready by the end of 2026.
 
 ### **4. Untitled Tower Game**
 - This is a personal project being made in Unity. This is the project I am currently working on. It currently does not have a name yet.
@@ -131,29 +130,40 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 
 ---
 
-### **1. Sunapsis Student Grouper**
-- This script identifies which students need to be a part of an AD group created for Sunapsis. They will need to be part of this group to log into their Sunapsis student portal. 
+### **1. Account Deactivation Policy Project**
+- This project was made in accordance to our policy regarding how long we keep student accounts.
+- The main script queries our SIS database and GAM7 to find users that qualify for deactivation or deletion.
+- Then the script checks their accounts for validation and builds two separate lists: one for deactivation and one for deletion. 
+- Finally the script will log all users found and log users found. Managers will be notified on those users and written approval will be needed before the script can delete or deactivate accounts.
 
-### **2. Sunapsis Student XML Creator**
-- This script Calls a SQL stored procedure and exports that XML file into the Sunapsis database.
+### **2. Phishing Attempt Remediation Project**
+- This project used Google API through GAM7 to search two domains for phishing emails.
+- This was built for the IT department can quickly act on campus-wide phishing attempts. We have a spreadsheet that IT specialist uses to input the phishing emial details.
+- Then the script looks a that Google sheet to find out what emails an what domain to target.
+- GAM7 is used to search through the target domain and delete target email on the list.
+- A report is made and emailed to our ticket system for logging and documentation. 
+  
+### **3. Canvas Attendance Puller**
+- This project consist of about five scripts scrape our Canvas production site to gather attendance data.
+- First this uses Selenium to pull data weekly onto a server.
+- Then this data is condensed into one csv file.
+- Finally the csv is sent to a certain network drive location for end-user use.
 
-### **3. Employee Account Creator**
+### **4. Employee Account Creator**
 - This is one of the biggest scripts I have written for my position at Cumberland University.
 - This script automates new hire account creation. This used to be done by hand, but now it is done with this script.
 - This almost entirely automated the new hire process.
 
-### **4. AD Exclusions List**
+### **5. AD Exclusions List**
 - This script's purpose is to allow the user to enable an alumni user to have access to their account for 1 day.
 - This uses a form interface so the IT Staff member can input the user and it adds them to a list that will be used to keep the user active for 1 day.
 
-### **5. Microsoft License Assigner**
-- This assigns students and faculty members Microsoft Licenses. 
+### **6. Bookstore data integration**
+- This script queries our SIS database and sends csv data to our bookstore's SFTP server.
 
-### **6. Microsoft Password Reset Tool**
-- This script was never live, but it is complete. It reset the password for the user in our SIS, Microsoft, and Google.
-
-### **7. Student Google Account Automation**
+### **7. Student Google/AD Account Automation**
 - This script auto loads students from our SIS into AD and creates their Google Account.
+- This script also applies student identifiers and sends them to be used by our SIS.
 
 ### **<b>NOTE: I wrote many more scripts, but I put the notable ones on here.</b>**
 
