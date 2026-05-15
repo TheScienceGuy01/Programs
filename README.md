@@ -56,7 +56,7 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 - This game is still in development with a test build projected to be ready by the end of 2026.
 
 ### **4. Untitled Tower Game**
-- This is a personal project being made in Unity. This is the project I am currently working on. It currently does not have a name yet.
+- This is a personal project being made in Unity. It currently does not have a name yet.
 - The goal is to build a very tall tower using random items given to you, the player. You can get more items to build your tower, and as you build higher and higher, you can find floating islands.
 - You will need to balance, stack, and climb your way to the top of the world.
 - It is a smaller project that gives me a break from working on Hopper. Hopper took a lot of energy and time, so I decided to work on this game as it has a smaller scope.
