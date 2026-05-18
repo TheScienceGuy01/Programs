@@ -172,7 +172,7 @@ You can find videos of my projects here: https://www.youtube.com/@israelirizarry
 ## Technologies
 - **Languages:** C#, Python, C, SQL, C+, HTML, CSS, Powershell
 - **Game Engines:** Unity
-- **Tools:** Git, Visual Studio, PyGame, Windows Powershell ISE, Python IDLE
+- **Tools:** Git, Visual Studio, PyGame, Windows Powershell ISE, Python IDLE, SQL Server
 
 ---
 
